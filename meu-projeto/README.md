@@ -5,7 +5,7 @@ Projeto desenvolvido para a disciplina de ADS 2MA, do professor Renato Freire, n
 ## 🚀 Integrante
 
 - **Nome:** Arthur Lucas Dantas
-- **Matrícula:** 2023XXXXX (substitua pela sua matrícula)
+- **Matrícula:** 01843167 
 
 ## 🛠️ Tecnologias Utilizadas
 
